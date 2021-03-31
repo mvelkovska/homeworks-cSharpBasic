@@ -1,0 +1,13 @@
+C:\Users\Ivica\Desktop\sedc\homeworks-cSharpBasic\Homework2\task1_sumOfEven\bin\Debug\netcoreapp3.1\task1_sumOfEven.exe
+C:\Users\Ivica\Desktop\sedc\homeworks-cSharpBasic\Homework2\task1_sumOfEven\bin\Debug\netcoreapp3.1\task1_sumOfEven.deps.json
+C:\Users\Ivica\Desktop\sedc\homeworks-cSharpBasic\Homework2\task1_sumOfEven\bin\Debug\netcoreapp3.1\task1_sumOfEven.runtimeconfig.json
+C:\Users\Ivica\Desktop\sedc\homeworks-cSharpBasic\Homework2\task1_sumOfEven\bin\Debug\netcoreapp3.1\task1_sumOfEven.runtimeconfig.dev.json
+C:\Users\Ivica\Desktop\sedc\homeworks-cSharpBasic\Homework2\task1_sumOfEven\bin\Debug\netcoreapp3.1\task1_sumOfEven.dll
+C:\Users\Ivica\Desktop\sedc\homeworks-cSharpBasic\Homework2\task1_sumOfEven\bin\Debug\netcoreapp3.1\task1_sumOfEven.pdb
+C:\Users\Ivica\Desktop\sedc\homeworks-cSharpBasic\Homework2\task1_sumOfEven\obj\Debug\netcoreapp3.1\task1_sumOfEven.csprojAssemblyReference.cache
+C:\Users\Ivica\Desktop\sedc\homeworks-cSharpBasic\Homework2\task1_sumOfEven\obj\Debug\netcoreapp3.1\task1_sumOfEven.AssemblyInfoInputs.cache
+C:\Users\Ivica\Desktop\sedc\homeworks-cSharpBasic\Homework2\task1_sumOfEven\obj\Debug\netcoreapp3.1\task1_sumOfEven.AssemblyInfo.cs
+C:\Users\Ivica\Desktop\sedc\homeworks-cSharpBasic\Homework2\task1_sumOfEven\obj\Debug\netcoreapp3.1\task1_sumOfEven.csproj.CoreCompileInputs.cache
+C:\Users\Ivica\Desktop\sedc\homeworks-cSharpBasic\Homework2\task1_sumOfEven\obj\Debug\netcoreapp3.1\task1_sumOfEven.dll
+C:\Users\Ivica\Desktop\sedc\homeworks-cSharpBasic\Homework2\task1_sumOfEven\obj\Debug\netcoreapp3.1\task1_sumOfEven.pdb
+C:\Users\Ivica\Desktop\sedc\homeworks-cSharpBasic\Homework2\task1_sumOfEven\obj\Debug\netcoreapp3.1\task1_sumOfEven.genruntimeconfig.cache
