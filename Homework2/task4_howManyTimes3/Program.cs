@@ -21,7 +21,6 @@ namespace task4_howManyTimes3
 
             int[] someIntegerArray = new int[parsedNumberOfElements];
 
-            //input 5 -> proveruva 0 1 2 3 4
             if (checkNumber)
             {
 
