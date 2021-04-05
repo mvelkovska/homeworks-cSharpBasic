@@ -10,7 +10,7 @@ namespace task1_sumOfEven
             string userInput;
           //  int convertInt;
             bool check;
-            bool flag = false;
+            //bool flag = false;
             int total = 0;
 
             //   for (int i = 0; i <= 5; i++)
@@ -34,15 +34,15 @@ namespace task1_sumOfEven
                 else
                 {
                     Console.WriteLine("Wrong input!");
-                    flag = true;
-                    break;//ako korisnikot vnese neshto shto ne e broj,programata skroz kje zavrshi kje mora site broevi odponovo da gi vnesuva
+                   // flag = true;
+                   // break;//ako korisnikot vnese neshto shto ne e broj,programata skroz kje zavrshi kje mora site broevi odponovo da gi vnesuva
                 }
 
             }
-            if (flag == false)
-            {
+        //    if (flag == false)
+          //  {
                 Console.WriteLine($"The result is {total}");
-            }
+          //  }
             Console.ReadLine();
         }
     }

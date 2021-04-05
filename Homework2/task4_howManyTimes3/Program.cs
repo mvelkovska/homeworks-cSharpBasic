@@ -4,9 +4,11 @@ namespace task4_howManyTimes3
 {
     class Program
     {
+
+       
         static void Main(string[] args)
         {
-
+            
             string userInput;
             bool check;
             int counter = 0;
@@ -49,7 +51,7 @@ namespace task4_howManyTimes3
 
                     else
                     {
-                        throw new Exception("Input not valid");
+                        Console.WriteLine("Input not valid");
                     }
 
                 }
@@ -57,10 +59,11 @@ namespace task4_howManyTimes3
 
             else
             {
-                throw new Exception("Input not valid!!!");
+                Console.WriteLine("Input not valid!!!");
             }
 
             Console.WriteLine($"{counter} times there are threes next to each other.");
+            
             Console.ReadLine();
         }
     }

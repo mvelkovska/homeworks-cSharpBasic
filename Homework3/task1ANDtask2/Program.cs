@@ -31,7 +31,7 @@ namespace task1ANDtask2
                 string[] razdeli = userInput.Split(" ");
 
                 Console.WriteLine("\n");
-                Console.WriteLine("Printing each WORD in reverse"); 
+                Console.WriteLine("Printing each WORD in reverse"); //ako vnese samo eden zbor, kje go isprinta samiot toj zbor
 
                 Array.Reverse(razdeli);
 

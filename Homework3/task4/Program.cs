@@ -77,7 +77,7 @@ namespace task4
 
                 string o = Console.ReadLine();
 
-                if (o == "+" || o == "-" || o == "*")
+                if (o == "+" || o == "-" || o == "*" || (o=="/" && parsedNumber2!=0))
                 {
                     Kalkulator(o, parsedNumber1, parsedNumber2);
                 }
