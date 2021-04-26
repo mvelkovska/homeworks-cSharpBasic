@@ -200,7 +200,7 @@ namespace App
                 while ((CheckValidity(car1, driver1, car2, driver2, drivers, cars)) == 2);
 
 
-                if ((CheckValidity(car1, driver1, car2, driver2, drivers, cars) == 1))//poradi ovoj red dvapati se printa delot Please fill out everything! Try again or type x to leave ili Some of your values are not correct! Try again or type x to leave, ne znaev kako da go sredam,da ne se povtoruva, a znam deka poradi ovoj if se printa dva pati
+                if ((CheckValidity(car1, driver1, car2, driver2, drivers, cars) == 1))
                 {
                     Car[] firstCar = new Car[1];
                     Car[] secondCar = new Car[1];
