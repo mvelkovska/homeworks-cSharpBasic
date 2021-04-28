@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ivica\\Desktop\\sedc\\homeworks-cSharpBasic\\Homework05\\Task1\\Task1.csproj",
+      "projectUniqueName": "C:\\Users\\Ivica\\Desktop\\sedc\\homeworks-cSharpBasic\\Homework6\\Task1\\Task1.csproj",
       "projectName": "Task1",
-      "projectPath": "C:\\Users\\Ivica\\Desktop\\sedc\\homeworks-cSharpBasic\\Homework05\\Task1\\Task1.csproj",
+      "projectPath": "C:\\Users\\Ivica\\Desktop\\sedc\\homeworks-cSharpBasic\\Homework6\\Task1\\Task1.csproj",
       "packagesPath": "C:\\Users\\Ivica\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ivica\\Desktop\\sedc\\homeworks-cSharpBasic\\Homework05\\Task1\\obj\\",
+      "outputPath": "C:\\Users\\Ivica\\Desktop\\sedc\\homeworks-cSharpBasic\\Homework6\\Task1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
