@@ -5,7 +5,7 @@ namespace Task1
     class Program
     {
 
-        //mozebi povtoruvackite delovi mozea da se izvadat vo poseben metod, probav so bool, ne mi bese celosno funkcionalna programata na toj nacin, ne znaev tocno kako da go napravam toa
+        
 
         public static bool Check()
         {
