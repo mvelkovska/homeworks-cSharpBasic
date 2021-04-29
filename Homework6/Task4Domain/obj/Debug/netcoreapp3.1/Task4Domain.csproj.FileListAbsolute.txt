@@ -1,0 +1,8 @@
+C:\Users\Ivica\Desktop\sedc\homeworks-cSharpBasic\Homework6\Task4Domain\bin\Debug\netcoreapp3.1\Task4Domain.deps.json
+C:\Users\Ivica\Desktop\sedc\homeworks-cSharpBasic\Homework6\Task4Domain\bin\Debug\netcoreapp3.1\Task4Domain.dll
+C:\Users\Ivica\Desktop\sedc\homeworks-cSharpBasic\Homework6\Task4Domain\bin\Debug\netcoreapp3.1\Task4Domain.pdb
+C:\Users\Ivica\Desktop\sedc\homeworks-cSharpBasic\Homework6\Task4Domain\obj\Debug\netcoreapp3.1\Task4Domain.AssemblyInfoInputs.cache
+C:\Users\Ivica\Desktop\sedc\homeworks-cSharpBasic\Homework6\Task4Domain\obj\Debug\netcoreapp3.1\Task4Domain.AssemblyInfo.cs
+C:\Users\Ivica\Desktop\sedc\homeworks-cSharpBasic\Homework6\Task4Domain\obj\Debug\netcoreapp3.1\Task4Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ivica\Desktop\sedc\homeworks-cSharpBasic\Homework6\Task4Domain\obj\Debug\netcoreapp3.1\Task4Domain.dll
+C:\Users\Ivica\Desktop\sedc\homeworks-cSharpBasic\Homework6\Task4Domain\obj\Debug\netcoreapp3.1\Task4Domain.pdb

@@ -28,7 +28,7 @@ namespace Task3
             new Animal("Constantine","white",3,Gender.Female)
         };
             Console.WriteLine("ANIMALS AGED 5 OR MORE:");
-            List<Animal> above5Age = listOfAnimalsObjects.Where(x => x.Age >= 5).ToList();//List<Animal> ili List<string> e podobro tuka i na narednoto?
+            List<Animal> above5Age = listOfAnimalsObjects.Where(x => x.Age >= 5).ToList();//ovde gi zemam kako celi objekti namesto samo List<string> ili pak so Select, pooptimalno e so select ili kako celi objekti?
             Print(above5Age);
 
             Console.WriteLine("ANIMALS THAT HAVE THE LETTER 'A' AS THEIR FIRST LETTER:");
@@ -45,7 +45,7 @@ namespace Task3
             Console.WriteLine("FIRST ANIMAL WHOSE NAME IS LONGER THAN 10 CHARACTERS:");
 
 
-            Animal longer10 = listOfAnimalsObjects.FirstOrDefault(x => x.Name.Length>10);
+            Animal longer10 = listOfAnimalsObjects.FirstOrDefault(x => x.Name.Length > 10);
             Console.WriteLine($"{longer10.Name}"); 
 
 
