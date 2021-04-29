@@ -9,16 +9,16 @@ namespace Task3Domain.Classes
     {
         public string Name { get; set; }
 
-        public string Colors { get; set; }
+        public string Color { get; set; }
 
         public int Age { get; set; }
 
         public Gender Gender { get; set; }
 
-        public Animal(string name,string colors,int age,Gender gender)
+        public Animal(string name,string color,int age,Gender gender)
         {
             Name = name;
-            Colors = colors;
+            Color = color;
             Age = age;
             Gender = gender;
         }

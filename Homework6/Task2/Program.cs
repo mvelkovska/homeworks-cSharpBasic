@@ -11,7 +11,7 @@ namespace Task2
             foreach (int numbers in list)
             {
                 Console.WriteLine($"{counter}. {numbers} ");
-                counter++;
+                counter++; 
             }
 
         }
