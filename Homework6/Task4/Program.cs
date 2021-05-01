@@ -25,7 +25,7 @@ namespace Task4
                          new Employee("name10","surname10",22),
             };
 
-            Dictionary<string,List<string>> someDictionary = new Dictionary<string, List<string>>();
+          //  Dictionary<int,List<string>> someDictionary = new Dictionary<int, List<string>>();
 
             var groupedResult = from s in listOfEmpolyees
                                 group s by s.Age;
@@ -34,12 +34,27 @@ namespace Task4
             {
 
                 Console.WriteLine($"Age Group:{ageGroup.Key}");
+                // Console.WriteLine(ageGroup.Key.GetType());
+                //int current = ageGroup.Key;
 
-                foreach (Employee e in ageGroup)  
+                foreach (Employee e in ageGroup)
+                {
                     Console.WriteLine($"Employee Name: {e.FirstName} {e.LastName}");
+            //        someDictionary.Add(current, new List<string> { $"{e.FirstName} - {e.LastName}" });
+                }
             }
 
             //ne uspeav istive da gi preslikam vo dictionary, kako bi mozelo da se prodolzi od ovaa zadaca nataka?
+
+           /* foreach (var item in someDictionary)
+            {
+                Console.WriteLine($"{item.Key} :");
+                foreach (var name in item.Value)
+                {
+                    Console.WriteLine($" {name} ");
+                }
+            }*/
+
             Console.ReadLine();
         }
     }
