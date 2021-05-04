@@ -1,0 +1,16 @@
+C:\Users\Ivica\Desktop\sedc\homeworks-cSharpBasic\Homework7\Task\obj\Debug\netcoreapp3.1\Task.csprojAssemblyReference.cache
+C:\Users\Ivica\Desktop\sedc\homeworks-cSharpBasic\Homework7\Task\obj\Debug\netcoreapp3.1\Task.AssemblyInfoInputs.cache
+C:\Users\Ivica\Desktop\sedc\homeworks-cSharpBasic\Homework7\Task\obj\Debug\netcoreapp3.1\Task.AssemblyInfo.cs
+C:\Users\Ivica\Desktop\sedc\homeworks-cSharpBasic\Homework7\Task\obj\Debug\netcoreapp3.1\Task.csproj.CoreCompileInputs.cache
+C:\Users\Ivica\Desktop\sedc\homeworks-cSharpBasic\Homework7\Task\bin\Debug\netcoreapp3.1\Task.exe
+C:\Users\Ivica\Desktop\sedc\homeworks-cSharpBasic\Homework7\Task\bin\Debug\netcoreapp3.1\Task.deps.json
+C:\Users\Ivica\Desktop\sedc\homeworks-cSharpBasic\Homework7\Task\bin\Debug\netcoreapp3.1\Task.runtimeconfig.json
+C:\Users\Ivica\Desktop\sedc\homeworks-cSharpBasic\Homework7\Task\bin\Debug\netcoreapp3.1\Task.runtimeconfig.dev.json
+C:\Users\Ivica\Desktop\sedc\homeworks-cSharpBasic\Homework7\Task\bin\Debug\netcoreapp3.1\Task.dll
+C:\Users\Ivica\Desktop\sedc\homeworks-cSharpBasic\Homework7\Task\bin\Debug\netcoreapp3.1\Task.pdb
+C:\Users\Ivica\Desktop\sedc\homeworks-cSharpBasic\Homework7\Task\bin\Debug\netcoreapp3.1\TaskDomain.dll
+C:\Users\Ivica\Desktop\sedc\homeworks-cSharpBasic\Homework7\Task\bin\Debug\netcoreapp3.1\TaskDomain.pdb
+C:\Users\Ivica\Desktop\sedc\homeworks-cSharpBasic\Homework7\Task\obj\Debug\netcoreapp3.1\Task.csproj.CopyComplete
+C:\Users\Ivica\Desktop\sedc\homeworks-cSharpBasic\Homework7\Task\obj\Debug\netcoreapp3.1\Task.dll
+C:\Users\Ivica\Desktop\sedc\homeworks-cSharpBasic\Homework7\Task\obj\Debug\netcoreapp3.1\Task.pdb
+C:\Users\Ivica\Desktop\sedc\homeworks-cSharpBasic\Homework7\Task\obj\Debug\netcoreapp3.1\Task.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+C:\Users\Ivica\Desktop\sedc\homeworks-cSharpBasic\Homework7\TaskDomain\bin\Debug\netcoreapp3.1\TaskDomain.deps.json
+C:\Users\Ivica\Desktop\sedc\homeworks-cSharpBasic\Homework7\TaskDomain\bin\Debug\netcoreapp3.1\TaskDomain.dll
+C:\Users\Ivica\Desktop\sedc\homeworks-cSharpBasic\Homework7\TaskDomain\bin\Debug\netcoreapp3.1\TaskDomain.pdb
+C:\Users\Ivica\Desktop\sedc\homeworks-cSharpBasic\Homework7\TaskDomain\obj\Debug\netcoreapp3.1\TaskDomain.AssemblyInfoInputs.cache
+C:\Users\Ivica\Desktop\sedc\homeworks-cSharpBasic\Homework7\TaskDomain\obj\Debug\netcoreapp3.1\TaskDomain.AssemblyInfo.cs
+C:\Users\Ivica\Desktop\sedc\homeworks-cSharpBasic\Homework7\TaskDomain\obj\Debug\netcoreapp3.1\TaskDomain.csproj.CoreCompileInputs.cache
+C:\Users\Ivica\Desktop\sedc\homeworks-cSharpBasic\Homework7\TaskDomain\obj\Debug\netcoreapp3.1\TaskDomain.dll
+C:\Users\Ivica\Desktop\sedc\homeworks-cSharpBasic\Homework7\TaskDomain\obj\Debug\netcoreapp3.1\TaskDomain.pdb
+C:\Users\Ivica\Desktop\sedc\homeworks-cSharpBasic\Homework7\TaskDomain\obj\Debug\netcoreapp3.1\TaskDomain.csprojAssemblyReference.cache
