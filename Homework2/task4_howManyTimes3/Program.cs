@@ -14,6 +14,9 @@ namespace task4_howManyTimes3
             int counter = 0;
 
 
+
+
+
             Console.WriteLine("Enter number of elements:");
 
             string numberOfElements = Console.ReadLine();
