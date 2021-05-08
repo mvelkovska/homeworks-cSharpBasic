@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ivica\\Desktop\\sedc\\homeworks-cSharpBasic\\Homework6\\Task4\\Task4.csproj",
+      "projectUniqueName": "C:\\Users\\Ivica\\Desktop\\sedc\\backEndAll\\homeworks-cSharpBasic\\Homework6\\Task4\\Task4.csproj",
       "projectName": "Task4",
-      "projectPath": "C:\\Users\\Ivica\\Desktop\\sedc\\homeworks-cSharpBasic\\Homework6\\Task4\\Task4.csproj",
+      "projectPath": "C:\\Users\\Ivica\\Desktop\\sedc\\backEndAll\\homeworks-cSharpBasic\\Homework6\\Task4\\Task4.csproj",
       "packagesPath": "C:\\Users\\Ivica\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ivica\\Desktop\\sedc\\homeworks-cSharpBasic\\Homework6\\Task4\\obj\\",
+      "outputPath": "C:\\Users\\Ivica\\Desktop\\sedc\\backEndAll\\homeworks-cSharpBasic\\Homework6\\Task4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -57,8 +57,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Ivica\\Desktop\\sedc\\homeworks-cSharpBasic\\Homework6\\Task4Domain\\Task4Domain.csproj": {
-              "projectPath": "C:\\Users\\Ivica\\Desktop\\sedc\\homeworks-cSharpBasic\\Homework6\\Task4Domain\\Task4Domain.csproj"
+            "C:\\Users\\Ivica\\Desktop\\sedc\\backEndAll\\homeworks-cSharpBasic\\Homework6\\Task4Domain\\Task4Domain.csproj": {
+              "projectPath": "C:\\Users\\Ivica\\Desktop\\sedc\\backEndAll\\homeworks-cSharpBasic\\Homework6\\Task4Domain\\Task4Domain.csproj"
             }
           }
         }

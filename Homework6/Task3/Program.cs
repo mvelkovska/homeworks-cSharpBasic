@@ -28,8 +28,13 @@ namespace Task3
             new Animal("Constantine","white",3,Gender.Female)
         };
             Console.WriteLine("ANIMALS AGED 5 OR MORE:");
-            List<Animal> above5Age = listOfAnimalsObjects.Where(x => x.Age >= 5).ToList();//ovde gi zemam kako celi objekti namesto samo List<string> ili pak so Select, pooptimalno e so select ili kako celi objekti?
-            Print(above5Age);
+            List<string> above5Age = listOfAnimalsObjects.Where(x => x.Age >= 5).Select(x => $"{x.Name} {x.Age}").ToList();
+
+            foreach (string s in above5Age)
+            {
+                Console.WriteLine(s);
+            }
+
 
             Console.WriteLine("ANIMALS THAT HAVE THE LETTER 'A' AS THEIR FIRST LETTER:");
             List<Animal> letterA = listOfAnimalsObjects.Where(x => x.Name.StartsWith("A")).ToList();

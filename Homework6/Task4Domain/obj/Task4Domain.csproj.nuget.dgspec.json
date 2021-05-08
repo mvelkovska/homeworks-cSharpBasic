@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ivica\\Desktop\\sedc\\homeworks-cSharpBasic\\Homework6\\Task4Domain\\Task4Domain.csproj": {}
+    "C:\\Users\\Ivica\\Desktop\\sedc\\backEndAll\\homeworks-cSharpBasic\\Homework6\\Task4Domain\\Task4Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ivica\\Desktop\\sedc\\homeworks-cSharpBasic\\Homework6\\Task4Domain\\Task4Domain.csproj": {
+    "C:\\Users\\Ivica\\Desktop\\sedc\\backEndAll\\homeworks-cSharpBasic\\Homework6\\Task4Domain\\Task4Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ivica\\Desktop\\sedc\\homeworks-cSharpBasic\\Homework6\\Task4Domain\\Task4Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Ivica\\Desktop\\sedc\\backEndAll\\homeworks-cSharpBasic\\Homework6\\Task4Domain\\Task4Domain.csproj",
         "projectName": "Task4Domain",
-        "projectPath": "C:\\Users\\Ivica\\Desktop\\sedc\\homeworks-cSharpBasic\\Homework6\\Task4Domain\\Task4Domain.csproj",
+        "projectPath": "C:\\Users\\Ivica\\Desktop\\sedc\\backEndAll\\homeworks-cSharpBasic\\Homework6\\Task4Domain\\Task4Domain.csproj",
         "packagesPath": "C:\\Users\\Ivica\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ivica\\Desktop\\sedc\\homeworks-cSharpBasic\\Homework6\\Task4Domain\\obj\\",
+        "outputPath": "C:\\Users\\Ivica\\Desktop\\sedc\\backEndAll\\homeworks-cSharpBasic\\Homework6\\Task4Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
